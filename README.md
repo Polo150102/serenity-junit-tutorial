@@ -23,5 +23,3 @@ For GRADLE, pen a command window and run:
 ## Viewing the reports
 
 Both of the commands provided above will produce a Serenity test report in the `target/site/serenity` directory. Go take a look!
-
-![image](https://github.com/Polo150102/serenityPageObject-junit-practice/assets/116474449/0729c359-fded-4de8-957b-1b047810cc04)
